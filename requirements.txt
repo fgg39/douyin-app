@@ -1,0 +1,5 @@
+﻿flask
+flask-cors
+pyyaml
+requests
+gunicorn
